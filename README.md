@@ -27,15 +27,15 @@ Career-Coach is an AI-powered platform designed to help individuals excel in the
 ```bash
 git clone https://github.com/UdaykiranRegimudi/Career-Coach.git
 cd Career-Coach
+
+```
 2️⃣ Install Dependencies
-bash
-Copy
+```bash
 npm install  # or yarn install
+```
 3️⃣ Set Up Environment Variables
 Create a .env file in the root directory and add the following environment variables:
-
-plaintext
-Copy
+```bash
 DATABASE_URL="prisma+postgres://accelerate.prisma-data.net/?api_key=YOUR_API_KEY"
 
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=""
@@ -50,9 +50,10 @@ GEMINI_API_KEY=""
 🔹 Note: Replace YOUR_API_KEY with the actual key.
 
 4️⃣ Run the Project
-bash
-Copy
+```
+```bash
 npm run dev  # or yarn dev
+```
 💡 Technologies Used
 Frontend: React.js, Next.js, Tailwind CSS
 
@@ -83,7 +84,7 @@ Open a Pull Request and let's build together! 🚀
 This project is licensed under the MIT License.
 
 📩 Contact
-📧 Email: your-email@example.com
+📧 Email: uuday3804@gmail.com
 
 🌐 Website: [Your Website Link]
 
